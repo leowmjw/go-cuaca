@@ -1,0 +1,8 @@
+set -o allkeys 
+
+# Register at ..
+OPENWEATHER_KEY=<REPLACE_THIS>
+# Register at ...
+METMY_KEY=<REPLACE_THIS>
+
+set +o allkeys
